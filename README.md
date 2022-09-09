@@ -16,8 +16,8 @@ Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor 
 ## <i>GitHub Stats</i>
  <div>
   <a href="https://github.com/leonardocandado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardocandado&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocandado&layout=compact&langs_count=8&theme=gruvbox"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardocandado&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocandado&layout=compact&langs_count=8&theme=gruvbox"/>  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
