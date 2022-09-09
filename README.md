@@ -20,9 +20,11 @@ Olá, estou iniciando minha carreira como desenvolvedor no ano de 2022, fazendo 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocandado&layout=compact&langs_count=8&theme=gruvbox"/>  
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Pedro-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Pedro-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Leo-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="Leo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Leo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Leo-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
 </div>
 
 ##
