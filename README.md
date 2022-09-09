@@ -7,7 +7,7 @@ Seja bem vindo, eu sou Leonardo Candado
 
 ## Sobre mim
 
-Olá eu sou o Pedro Henrique, estou iniciando minha carreira como desenvolvedor no ano de 2021, vivendo muitos desafios e novos aprendizados, atualmente estou alocado em um projeto de desenvolvimento mobile em Android, utilizando a IDE do Android Studio.
+Olá, estou iniciando minha carreira como desenvolvedor no ano de 2022, fazendo uma transição de carreira, vivendo muitos desafios e novos aprendizados, atualmente estou estudando desenvolvimento mobile em Android, utilizando a IDE do Android Studio.
 
 - 💻 Atualmente aprendendo sobre Desenvolvimento Mobile
 - 👨‍💻 Bacharel em Sistemas de Informação pela [UFGD](https://www.ufgd.edu.br/) 🎓
